@@ -1,0 +1,6 @@
+{
+  "name": "MJ BD LAB",
+  "description": "MJ BD LAB — Modern online shopping app with swipeable pages, live search, category filtering, wishlist, and persistent cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
